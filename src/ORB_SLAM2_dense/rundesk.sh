@@ -1,0 +1,1 @@
+/home/jackdaw/ros/ros_pointcloud/src/ORB_SLAM2_dense/Examples/RGB-D/rgbd_tum   Vocabulary/ORBvoc.txt Examples/RGB-D/TUM1.yaml /home/jackdaw/orbslam2data/data/rgbd_dataset_freiburg1_desk  /home/jackdaw/orbslam2data/data/rgbd_dataset_freiburg1_desk/associations.txt

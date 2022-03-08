@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/jackdaw/ros/ros_pointcloud/devel -DCMAKE_INSTALL_PREFIX=/home/jackdaw/ros/ros_pointcloud/install -G Unix Makefiles
